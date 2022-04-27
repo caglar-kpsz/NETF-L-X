@@ -6,8 +6,7 @@ body{
    background-image: url(./background_image.jpg);
 }
 fieldset{
-    margin-left: 280px;
-    
+    margin-left: 10%;
     padding: 20px;
     width: 10px;
     height: auto;
